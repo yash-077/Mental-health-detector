@@ -16,17 +16,4 @@ $ python server.py
    - Password :admin
    - *Note : Username and password can be chnaged in server.py file
 
-### Demo
-link : https://youtu.be/CucCcR7J-yc
 
-![](static/scrn1.png)
-
-![](static/scrn2.png)
-
-![](static/scrn3.png)
-
-![](static/scrn4.png)
-
-![](static/scrn5.png)
-
-![](static/scrn6.png)
